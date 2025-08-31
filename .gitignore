@@ -1,4 +1,3 @@
-﻿# ...existing code...
 # Python / venv
 .venv/
 backend/.venv/
@@ -21,4 +20,3 @@ Thumbs.db
 
 # VS Code
 .vscode/
-# ...existing code...
